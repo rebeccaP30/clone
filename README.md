@@ -1,3 +1,7 @@
+
+![image](https://github.com/rebeccaP30/clone/assets/79094275/63838872-a751-4d44-9a0a-78a12bf5342d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
