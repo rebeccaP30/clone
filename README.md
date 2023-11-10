@@ -1,4 +1,4 @@
-
+This is a ChatGPT clone, created using React
 ![image](https://github.com/rebeccaP30/clone/assets/79094275/63838872-a751-4d44-9a0a-78a12bf5342d)
 
 
